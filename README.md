@@ -75,10 +75,11 @@ with TBF2Reader("optimized.tbf2") as reader:
 ```
 
 ## Performance Benchmarks
-
 <img src="assets/benchmarks1.png" width="80%" alt="TBF2 Icon" />
+Repetitive 16-grams, random 128-256 block size
 
 <img src="assets/benchmarks2.png" width="80%" alt="TBF2 Icon" />
+FineWeb GPT2 tokenized, max ctx len 1024
 
 *Benchmarks run on: Intel Core Utlra 7 155H, 32GB RAM, NVMe SSD. More details available*
 
