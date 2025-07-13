@@ -1,7 +1,7 @@
 # ─────────────────────────────────────────────────────────────
 #  Token Block Format 2
 #  > Darin Tanner, Elijah Tribhuwan, Sharad Sreekanth
-#  Copyright (c) 2025 Quantius AI LLC.
+#  Copyright (c) 2025 Quantius LLC.
 #  License: MIT
 #
 #  Permission is hereby granted, free of charge, to any person obtaining
