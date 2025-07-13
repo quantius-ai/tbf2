@@ -22,16 +22,21 @@ Perfect for transformer training data, tokenized datasets, and any application w
 
 ## Installation
 
+TBF2 is a single-file Python module. Just download it into your working directory and import it.
+
+### 💻 Windows (PowerShell)
 ```bash
-pip install tbf2
+wget "https://raw.githubusercontent.com/quantius-ai/tbf2/refs/heads/main/tbf2.py" -OutFile "tbf2.py"
 ```
 
-For maximum performance:
+### 🐧 Linux / 🍎 macOS
 ```bash
-pip install tbf2[numpy]
+wget -O tbf2.py "https://raw.githubusercontent.com/quantius-ai/tbf2/refs/heads/main/tbf2.py"
 ```
 
 ## Quick Start
+
+> 📖 *Looking for detailed docs? [Read the Full Documentation →](/docs/DOCS.md)*
 
 ### The Simple Way
 
