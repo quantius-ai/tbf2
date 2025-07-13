@@ -213,7 +213,7 @@ MIT License - see LICENSE file for details.
 
 ## Authors
 
-Created by the team at **Quantius AI LLC**:
+Created by the team at **Quantius LLC**:
 - Darin Tanner
 - Elijah Tribhuwan  
 - Sharad Sreekanth
