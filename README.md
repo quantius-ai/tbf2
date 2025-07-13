@@ -1,6 +1,7 @@
 # Token Block Format 2 (TBF2) 🚀
 
-<img src="assets/icon.png" width="300" alt="TBF2 Icon" />
+<img src="assets/icon.png" width="100" alt="TBF2 Icon" />
+<img src="assets/benchmarks1.png" width="80%" alt="TBF2 Icon" />
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
@@ -75,23 +76,11 @@ with TBF2Reader("optimized.tbf2") as reader:
 
 ## Performance Benchmarks
 
-> Real-world performance that matters
+<img src="assets/benchmarks1.png" width="80%" alt="TBF2 Icon" />
 
-### 📊 Compression Efficiency
+<img src="assets/benchmarks2.png" width="80%" alt="TBF2 Icon" />
 
-*File size comparison on 1M token sequences:*
-
-<!-- Insert benchmark graph here -->
-**[Compression Benchmark Chart - Coming Soon]**
-
-### ⚡ Speed Comparison
-
-*Encoding/decoding throughput vs. alternatives:*
-
-<!-- Insert speed benchmark graph here -->
-**[Speed Benchmark Chart - Coming Soon]**
-
-*Benchmarks run on: Intel Core Utlra 7 155H, 32GB RAM, NVMe SSD*
+*Benchmarks run on: Intel Core Utlra 7 155H, 32GB RAM, NVMe SSD. More details available*
 
 ## Compression Options
 
@@ -107,13 +96,6 @@ write_tbf2("balanced.tbf2", data, compression="zlib", compression_level=6)
 # Maximum compression
 write_tbf2("smallest.tbf2", data, compression="lzma", compression_level=9)
 ```
-
-### 📈 Compression Ratio Analysis
-
-*Compression effectiveness across different token distributions:*
-
-<!-- Insert compression analysis graph here -->
-**[Compression Analysis Chart - Coming Soon]**
 
 ## Advanced Features
 
@@ -233,5 +215,7 @@ Created by the team at **Quantius AI LLC**:
 ---
 
 *Ready to supercharge your token storage? Give TBF2 a try and experience the difference.*
+
+<img src="assets/icon.png" width="200" alt="TBF2 Icon" />
 
 **[⭐ Star this repo](https://github.com/quantius/tbf2) if TBF2 helps your project!**
